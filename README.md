@@ -3,20 +3,14 @@
 [in/tkh](https://www.linkedin.com/in/khanh-huyen-truong-1651a1223/) - truongkhanhhuyen2003@gmail.com
 ***
 ### Projects for Sharing
-<table>
-  <tr>
-    <td>
-      <a href= "[https://github.com/your-username/Python_RFM_Analysis](https://github.com/ju1701/SQL_Ecommerce_Instruction)">
-        <img src="https://img.shields.io/badge/Jupyter Notebook-orange?style=flat-square&logo=jupyter" alt="Jupyter Notebook">
-        <h3>SQL_Ecommerce_Instruction</h3>
-      </a>
-      <p>Explore E-commerce utilizing Google BigQuery dataset, aiming to evaluate the business situation, website activity, marketing effectiveness (bounce rate per traffic,funnel analysis, cohort,..), and product analysis.</p>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/ju1701/SQL_Ecommerce_Instruction">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ju1701&repo=SQL_Ecommerce_Instruction&theme=shadow_blue" />
+</a>  
+  
 
 ***
+
 ### My certificates
 [SQL Advanced](https://www.hackerrank.com/certificates/iframe/34d141c08dca)
 
