@@ -3,7 +3,18 @@
 [in/tkh](https://www.linkedin.com/in/khanh-huyen-truong-1651a1223/) - truongkhanhhuyen2003@gmail.com
 ***
 ### Projects for Sharing
-[SQL_Ecommerce_Instruction](https://github.com/ju1701/SQL_Ecommerce_Instruction/blob/Master/README.md)
+<table>
+  <tr>
+    <td>
+      <a href= "[https://github.com/your-username/Python_RFM_Analysis](https://github.com/ju1701/SQL_Ecommerce_Instruction)">
+        <img src="https://img.shields.io/badge/Jupyter Notebook-orange?style=flat-square&logo=jupyter" alt="Jupyter Notebook">
+        <h3>SQL_Ecommerce_Instruction</h3>
+      </a>
+      <p>Explore E-commerce utilizing Google BigQuery dataset, aiming to evaluate the business situation, website activity, marketing effectiveness (bounce rate per traffic,funnel analysis, cohort,..), and product analysis.</p>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ***
 ### My certificates
