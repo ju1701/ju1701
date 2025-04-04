@@ -1,4 +1,4 @@
-*Passionate about Lean Analytics and Connect the Dots to Write Stories*
+*Lean Analytics and Connect the Dots to Write Stories are my Passion!*
 
 [in/tkh](https://www.linkedin.com/in/khanh-huyen-truong-1651a1223/) - truongkhanhhuyen2003@gmail.com
 ***
