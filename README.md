@@ -7,9 +7,9 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ju1701&repo=SQL_BicycleManufacturing_Instruction&theme=vue-dark" />
 </a>  
-<a href="https://github.com/ju1701/SQL_BicycleManufacturing_Instruction/blob/Master/README.md">
+<a href="https://github.com/ju1701/SQL_Ecommerce_Instruction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ju1701&repo=SQL_BicycleManufacturing_Instruction&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ju1701&repo=SQL_Ecommerce_Instruction&theme=vue-dark" />
 </a> 
 
 ***
