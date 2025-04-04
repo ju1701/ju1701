@@ -3,15 +3,8 @@
 [in/tkh](https://www.linkedin.com/in/khanh-huyen-truong-1651a1223/) - truongkhanhhuyen2003@gmail.com
 ***
 ### Projects for Sharing
-| STT | Cột 1 | Cột 2 |
+[SQL_Ecommerce_Instruction](https://github.com/ju1701/SQL_Ecommerce_Instruction/blob/Master/README.md)
 
-| :—– | :———- | :————– |
-
-| 1 | Dòng 11 | Dòng 21 |
-
-| 2 | Dòng 12 | Dòng 22 |
-
-| 3 | Dòng 13 | Dòng 23 |
 ***
 ### My certificates
 [SQL Advanced](https://www.hackerrank.com/certificates/iframe/34d141c08dca)
